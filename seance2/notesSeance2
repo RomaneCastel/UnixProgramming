@@ -1,0 +1,3 @@
+8.2 rajouter un sleep(10) ne change rien, on attend juste que le père écrive.
+
+11. Difficile (on a pas réussit) à transmettre des entiers, mais des chaînes de caractères.
